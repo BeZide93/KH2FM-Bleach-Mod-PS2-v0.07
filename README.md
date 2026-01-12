@@ -3,6 +3,7 @@ KH2FM-Bleach-Mod-PS2-v0.07
 
 Replaces most Texts, Images and Models of Sora and Roxas with Ichigo and Zangetsu from Bleach.
 Replaces all Keyblades with Zanpakutos.
+If you want to use the optional "3. GoA Warp.kh2patch" patch you will need the patch inside the "FAF99301.pnach" to make the Landing point appear on the World Map.
 
 Credits:
 OpenKH-Team for the modding Tools and documentation
